@@ -1,0 +1,14 @@
+.card{
+	height: 500px;
+	background-image: url("https://cleanfoodcrush.com/wp-content/uploads/2017/02/Foods-for-a-Better-Booty-CleanFoodCrush.jpeg");
+	background-size: cover !important;
+}
+
+.card-avatar{
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	position: absolute;
+	bottom: 15px;
+	right: 15px;
+}

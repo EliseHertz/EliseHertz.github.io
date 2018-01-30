@@ -1,0 +1,53 @@
+@import url("Components/avatar.css")
+@import url("Components/first-paragraph.css")
+@import url("Components/button.css")
+@import url("Components/card.css")
+
+h1{
+	color: #4D4545; 
+	font-size: 30px;
+	font-family: 'Indie Flower', cursive;
+}
+
+.first-paragraph{
+	background-color: rgb(209,209,209);
+	text-align: center;
+	margin-top: 70px;
+	margin-right: 70px;
+	margin-bottom: 70px;
+	margin-left : 70px;
+	border: solid 5px #4D4545;
+	border-radius: 10px;
+	
+	padding: 50px;
+
+	box-shadow:  10px 5px 10px grey; 
+
+}
+body {
+	background-color: #8D6262;
+	font-family: 'Lato', sans-serif;
+}
+p {
+	
+}
+#avatar{
+	width: 400px;
+	box-shadow: 100px 5px 100px grey;
+}
+
+
+.network{
+	width: 50px;
+}
+
+.icon-network{
+	font-size: 60px;
+	color: #4D4545;
+	text-decoration: none;
+
+}
+.container{
+	text-align: center;
+
+}
